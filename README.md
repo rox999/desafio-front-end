@@ -1,4 +1,4 @@
-# Desafio programação - para vaga Front-end
+# Desafio programação - para vaga Front-end development
 
 O intuito deste teste é avaliar seus conhecimentos técnicos em React.
 
